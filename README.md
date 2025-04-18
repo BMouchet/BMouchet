@@ -41,7 +41,7 @@ While the source code is private, here are a few real-world applications I've wo
 
 | Project | Description | Link |
 |--------|-------------|------|
-| 🚗 **L-easy** | Drivers license partner | [l-easy.ch](https://leasy.ch) |
+| 🚗 **L-easy** | Drivers license partner | [l-easy.ch](https://l-easy.ch) |
 | 🧪 **SOPE** | SOPE Mouchet Website | [sope.ch](https://sope.ch)|
 
 ---
