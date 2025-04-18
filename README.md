@@ -35,6 +35,17 @@ I'm a Computer Science & Cybersecurity engineer with experience as a **Lead Full
 
 ---
 
+## 🌍 Projects in the Wild
+
+While the source code is private, here are a few real-world applications I've worked on:
+
+| Project | Description | Link |
+|--------|-------------|------|
+| 🚗 **L-easy** | Drivers license partner | [l-easy.ch](https://leasy.ch) |
+| 🧪 **SOPE** | SOPE Mouchet Website | [sope.ch](https://sope.ch)|
+
+---
+
 ## 📫 Let's connect
 
 Feel free to reach out or check out my latest projects:
