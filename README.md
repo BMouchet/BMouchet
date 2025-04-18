@@ -29,7 +29,7 @@ I'm a Computer Science & Cybersecurity engineer with experience as a **Lead Full
 ## 🌱 About Me
 
 - 🛡 Background in **Cybersecurity** & **Software engineering**
-- 🧑‍💻 Passionate about **privacy**, **security**, and **building robust full-stack applications**
+- 🧑‍💻 Working on **privacy**, **security**, and **building robust full-stack applications**
 - 🎖 Trained as a military officer and team leader
 - 🏆 National innovation prize winner for my bachelor project
 
