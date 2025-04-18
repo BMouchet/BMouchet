@@ -39,7 +39,7 @@ I'm a Computer Science & Cybersecurity engineer with experience as a **Lead Full
 
 Feel free to reach out or check out my latest projects:
 
-- 💼 [LinkedIn](www.linkedin.com/in/benjamin-mouchet-917185267)
+- 💼 [LinkedIn](https://www.linkedin.com/in/benjamin-mouchet-917185267)
 
 ---
 
